@@ -17,10 +17,6 @@
 
 
 
-
-
-
-
 // Teraform - Ec2 with Key Pair (c6i.8xlarge)
 
    provider "aws"  {
